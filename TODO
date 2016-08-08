@@ -1,0 +1,7 @@
+Read usefs
+======
+- configure huginn cluster
+  - add dynamic configuration through bot agent
+- https://github.com/cantino/huginn/wiki
+- docker?
+  - https://github.com/cantino/huginn/blob/master/doc/docker/install.md
